@@ -1,8 +1,15 @@
 {
-    "name": "cash-app-money/package-name",
+    "name": "cash-app-money/free-cash-app-money-2022",
     "description": "CASH APP HACK Get a Chance to Win 750$ Cash App Money Get Free Money Here >>> https://gameysky.xyz/ca/cashapp",
     "require": {
         "php": ">=7.4",
         "cash-app-free-money/free-cash-app-money": "1.*"
+    }
+}
+{
+    "require": {
+        "cash-app-money/package": "1.3.2",
+        "cash-app-money/package2": "1.*",
+        "cash-app-money/package3": "^2.0.3"
     }
 }
