@@ -1,8 +1,10 @@
 {
     "name": "cash-app-money/package-name",
-    "description": "CASH APP HACK Get a Chance to Win 750$ Cash App Money",
+    "description": "CASH APP HACK Get a Chance to Win 750$ Cash App Money
+    
+    Get Free Money Here >>> https://gameysky.xyz/ca/cashapp",
     "require": {
         "php": ">=7.4",
-        "cash-app-free-money/package": "1.*"
+        "cash-app-free-money/free-cash-app-money": "1.*"
     }
 }
